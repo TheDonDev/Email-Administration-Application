@@ -65,6 +65,4 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact  
 For inquiries or feedback, reach out via [GitHub Issues](https://github.com/TheDonDev/Email-Administration-Application/issues).  
 
-Happy coding! 🚀  
-
-Save this file as `README.md` in your repository root. Let me know if you'd like further customization!
+Happy coding! 🚀 
