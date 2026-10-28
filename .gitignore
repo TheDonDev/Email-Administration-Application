@@ -1,0 +1,14 @@
+# Compiled output
+bin/
+*.class
+
+# SQLite database (runtime data)
+emailapp.db
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
